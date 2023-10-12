@@ -11,17 +11,17 @@ This is the open source project of Google Drive/OneDrive/iCloud/Dropbox alternat
 
 
 ## Getting Started
-
-Read here for full instructions: [teledriveapp.com](https://teledriveapp.com)
-
-## API Documentation
+  
+Read here for full instruct   ions: [teledriveapp.com](https://teledriveapp.com)
+ 
+## API Documentation   
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/restfireteam/workspace/mgilangjanuar/collection/1778529-3e4b0f8d-f721-4055-8d30-33cacaea93e6?ctx=documentation)
 
 ## How to Contribute
 
 - Fork and clone this repository
-- Commit your changes
+- Commit your cha nges
 - Create a pull request to the `staging` branch
 
 Or, just send us an [issue](https://github.com/mgilangjanuar/teledrive/issues) for reporting bugs and/or ask the questions, share your ideas, etc in [discussions](https://github.com/mgilangjanuar/teledrive/discussions).
